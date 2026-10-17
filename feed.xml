@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-17T22:17:51+08:00</updated>
+  <updated>2026-10-17T23:41:53+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>FengxinYunshu</name></author>
+  <entry>
+    <title>Vol2.002，礼非天，或是李飞天</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/389b42f34c.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/389b42f34c.html</id>
+    <updated>2026-10-17T23:41:53+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>在“荒原良”社区“幻觉”关键词下记录这次幻觉的用户主页，也曾零星记录过几条类似的幻觉素材。整体看下来，他记录的都是一些不可能发生的事，但是文笔平常，就像自己亲眼所见。其可读性乏善可陈，虽然每篇文章都有数十点击量，有一篇达到二百多的点击量，但</summary>
+  </entry>
   <entry>
     <title>书法的“打叉”练习</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/8ead860c3b.html"/>
