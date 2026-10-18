@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-18T15:09:51+08:00</updated>
+  <updated>2026-10-19T00:30:01+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
-  <author><name>FengxinYunshu</name></author>
+  <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.003，他们不是喝酒烤串的青年</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/8f92cb387d.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/8f92cb387d.html</id>
+    <updated>2026-10-19T00:30:01+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>李飞天常常有一搭没一搭地和我说这些事，他说得就像真的似的。 他还常常提醒我，不要叫他李飞天，他的大名叫“礼非天”。这一点，他应该弄错了，姓李的有很多，但真的有姓“礼”的吗，而且把名字起为“非天”，尽管看着很霸气，却不像是父母给孩子起出来的名</summary>
+  </entry>
   <entry>
     <title>地狱之景</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/228ea9f4f8.html"/>
