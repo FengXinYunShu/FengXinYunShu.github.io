@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-17T23:41:53+08:00</updated>
+  <updated>2026-10-18T15:09:51+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>FengxinYunshu</name></author>
+  <entry>
+    <title>地狱之景</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/228ea9f4f8.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/228ea9f4f8.html</id>
+    <updated>2026-10-18T15:09:51+08:00</updated>
+    <category term="佛法/随记"/>
+    <summary>今天天气好，我在路上走路，看到路上有一些闪光的曲线，从一个中心散射出去，我走近了看，是蜗牛走过的痕迹。那只蜗牛从一个地方出发，尝试走了很多路，但是没有走回到一两步之外的草地上，它可能爬了一夜了，我捡起它丢到草里时，我感觉它已经是个空壳。这个</summary>
+  </entry>
   <entry>
     <title>Vol2.002，礼非天，或是李飞天</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/389b42f34c.html"/>
