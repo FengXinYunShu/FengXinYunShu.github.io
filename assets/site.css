@@ -196,7 +196,12 @@ pre.raw .ln.bad{background:rgba(168,69,47,.14)}
 
 /* ===== mdbox v2.4 · 手机端：先看内容，功能区排到列表之后 ===== */
 .only-mobile{display:none}
-.msite{font-size:1.05rem;font-weight:600;color:var(--accent);margin:0 0 .6rem}
+/* 手机端站名 + 简介作为一个整体，简介紧跟站名下面，不与标题分家 */
+.msite-head{margin:0 0 .9rem}
+.msite{font-size:1.05rem;font-weight:600;color:var(--accent);margin:0}
+.msite a{color:inherit;text-decoration:none}
+.msite a:hover{text-decoration:underline}
+.msite-desc{font-size:.82rem;color:var(--muted);margin:.25rem 0 0;line-height:1.5}
 .msearch{display:flex;gap:8px;margin:0}
 .msearch input{flex:1;min-width:0;padding:8px 10px;border:1px solid var(--line);border-radius:6px;
   background:var(--card);color:inherit;font:inherit;font-size:14px}
@@ -206,8 +211,11 @@ pre.raw .ln.bad{background:rgba(168,69,47,.14)}
   .only-mobile{display:block;margin:0 0 1.6rem;padding-bottom:1.2rem;border-bottom:1px solid var(--line)}
   .shell{grid-template-columns:1fr}
   .main{order:1;min-width:0}
-  /* 手机上侧栏排在列表之后，只保留这一条顶部分隔线（去掉原来的 border-bottom，避免双线） */
+  /* 手机上侧栏排在列表之后，只保留一条分隔线。
+     注意：.side 自己有 border-top，而里面第一个 .side-block 也有 border-top，
+     两条线上下相邻就成了「两条横线」——所以这里把第一个子模块的顶线去掉。 */
   .side{order:2;border-top:1px solid var(--line);border-bottom:0;padding-top:1.2rem;margin-top:1rem}
+  .side>.side-block:first-of-type{border-top:0;padding-top:0}
   .side-head,.side>.searchbox{display:none}   /* 手机上这两块已挪到主栏顶部的 .only-mobile */
 }
 
