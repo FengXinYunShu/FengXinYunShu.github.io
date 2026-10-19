@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-19T00:30:01+08:00</updated>
+  <updated>2026-10-19T23:50:53+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.004，受难者的焦点</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/1896f1b6c4.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/1896f1b6c4.html</id>
+    <updated>2026-10-19T23:50:53+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>我回到家时，是早上五点。原本我可以在四点之前回家，我走到楼下时，开始犹豫我要不要回去。回去了也不能睡觉，又要马上准备出门上班，不回去，觉得少了什么重要的事情没做。等到五点时，我刷卡进了单元门，上楼，我洗把脸，又要重新坐上地铁。我应该早点儿去</summary>
+  </entry>
   <entry>
     <title>Vol2.003，他们不是喝酒烤串的青年</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/8f92cb387d.html"/>
