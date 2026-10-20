@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-20T12:31:36+08:00</updated>
+  <updated>2026-10-20T23:50:54+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.005，平庸者的时间压缩机</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/8e4dde4881.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/8e4dde4881.html</id>
+    <updated>2026-10-20T23:50:54+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>“这个世界最大的问题是半成品，最大的真实也是半成品。” 在我和礼非天的闲聊中，我们常常谈到的一件事是“完成度”。李非天坚持让我在写他的名字时，不能写成李飞天，我只好慢慢习惯非天这样的写法。 在谈论“完成度”这件事时，李飞天给我提供了很多案例</summary>
+  </entry>
   <entry>
     <title>书法的入纸是什么</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/a4a87443a9.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-10T17:50:50+08:00</updated>
     <category term="测试/草稿"/>
     <summary>兄弟 公益局一向无公可办，几个办事员在办公室里照例的谈家务。秦益堂捧着水烟筒咳得喘不过气来，大家也只得住口。久之，他抬起紫涨着的脸来了，还是气喘吁吁的，说： “到昨天，他们又打起架来了，从堂屋一直打到门口。我怎么喝也喝不住。”他生着几根花白</summary>
-  </entry>
-  <entry>
-    <title>这是第一篇测试文章</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/2ae80b0fe6.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/2ae80b0fe6.html</id>
-    <updated>2026-10-10T10:20:17+08:00</updated>
-    <category term="测试/图文"/>
-    <summary>今天用deepseek做了一个md数据库的编辑器，还没有做自动保存功能。 稍后我问问能不能添加。 现在我测试几个小功能。 测试1 引文功能，以下是一段引文。 引文有两句，这是第一句 这是第二句 现在我要把护目录的图片放进来。 护目色数值20</summary>
   </entry>
 </feed>
