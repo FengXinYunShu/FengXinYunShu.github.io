@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-20T23:50:54+08:00</updated>
+  <updated>2026-10-22T23:59:51+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.007，算法的感觉</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/75909adb4f.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/75909adb4f.html</id>
+    <updated>2026-10-22T23:59:51+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>这里没有备份，这里有真正的死亡。 伊里拉真正面对这个事实的时候，他还没有对死亡产生真实的体验。在他的资料里，他完全知道人类世界真实的死亡是什么意思。他可以比所有真实的人更清楚地解释这件事，他能用一套数千字甚至上万字的宏论解释数字智能面对死亡</summary>
+  </entry>
   <entry>
     <title>Vol2.005，平庸者的时间压缩机</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/8e4dde4881.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-10T17:56:57+08:00</updated>
     <category term="作品/自动续费失败"/>
     <summary>这一篇日记很长。 张北望想起他曾经在以前读过七八天的时候往后翻了大半本，读过前面的一部分，就是主角背着一个巨大的装备包，不断被秒杀读档的场景。他当初以为这个人玩游戏进入了正轨，只是遇到了一个比较难的小boss，没有想他玩了这么久，竟然还在原</summary>
-  </entry>
-  <entry>
-    <title>鲁迅随机文章测试</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/f7c847db95.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/f7c847db95.html</id>
-    <updated>2026-10-10T17:50:50+08:00</updated>
-    <category term="测试/草稿"/>
-    <summary>兄弟 公益局一向无公可办，几个办事员在办公室里照例的谈家务。秦益堂捧着水烟筒咳得喘不过气来，大家也只得住口。久之，他抬起紫涨着的脸来了，还是气喘吁吁的，说： “到昨天，他们又打起架来了，从堂屋一直打到门口。我怎么喝也喝不住。”他生着几根花白</summary>
   </entry>
 </feed>
