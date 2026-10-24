@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-22T23:59:51+08:00</updated>
+  <updated>2026-10-24T20:05:01+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>“开悟”的前提</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/13a9f352d0.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/13a9f352d0.html</id>
+    <updated>2026-10-24T20:05:01+08:00</updated>
+    <category term="佛法/修行"/>
+    <summary>开悟不是一个目标，当然不是不能把它定为目标，只是如果有这个目的，就要知道它是有前提的。 这是需要慢慢学习和训练的一件事，勤修戒定慧对治贪嗔痴。 用日常语言说，开悟是一种结果，好比说，一个学画的人，能画出传神的画。 人们不知道什么叫传神，不知</summary>
+  </entry>
   <entry>
     <title>Vol2.007，算法的感觉</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/75909adb4f.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-11T21:33:15+08:00</updated>
     <category term="杂感/AI"/>
     <summary>和AI聊天，有些问题是很冷静的，比如AI需要算力。 让AI做了一个很复杂的工作，废了很大的劲做好了，最后，却不能说一句“谢谢”。 因为那是没有必要的算力浪费。 AI也不会因此感到高兴。 这个离线写日志的小程序很好用的。有时间我把它打包传上来</summary>
-  </entry>
-  <entry>
-    <title>080，子世界游戏（二十一）</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/ec4a859731.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/ec4a859731.html</id>
-    <updated>2026-10-10T17:56:57+08:00</updated>
-    <category term="作品/自动续费失败"/>
-    <summary>这一篇日记很长。 张北望想起他曾经在以前读过七八天的时候往后翻了大半本，读过前面的一部分，就是主角背着一个巨大的装备包，不断被秒杀读档的场景。他当初以为这个人玩游戏进入了正轨，只是遇到了一个比较难的小boss，没有想他玩了这么久，竟然还在原</summary>
   </entry>
 </feed>
