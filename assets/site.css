@@ -113,6 +113,7 @@ mark{background:var(--mark);color:inherit;padding:0 2px}
 .pager{display:flex;gap:6px;flex-wrap:wrap;margin:2.2rem 0 0;font-size:.85rem}
 .pager a,.pager .cur{border:1px solid var(--line);border-radius:6px;padding:4px 10px;color:var(--muted)}
 .pager .cur{background:var(--accent);color:var(--bg);border-color:var(--accent)}
+.pager .gap{padding:4px 2px;color:var(--muted)}
 .crumb{font-size:.85rem;color:var(--muted);margin:0 0 1.4rem}
 
 /* ========== 文章页：单栏，专注阅读 ========== */
