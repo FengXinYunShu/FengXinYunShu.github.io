@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-24T20:05:01+08:00</updated>
+  <updated>2026-10-25T22:01:56+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>对众生皆苦的进一步理解</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/db49c74e6f.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/db49c74e6f.html</id>
+    <updated>2026-10-25T22:01:56+08:00</updated>
+    <category term="佛法/随记"/>
+    <summary>苦苦，坏苦，行苦。 第一种是最日常体会到的痛苦，比如受伤、生病、丢钱等。 第二种是变坏的苦，就是现在还是好的，但是它不长久。这个苹果很好吃，但是放了一个月，不好吃了，对应人生，现在多么年轻，身体多么好，可是十年过去了，二十年过去了，好时光一</summary>
+  </entry>
   <entry>
     <title>“开悟”的前提</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/13a9f352d0.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-11T22:20:45+08:00</updated>
     <category term="作品/自动续费失败"/>
     <summary>张北望的世界是静止的。 他和日记主人的生活，没有什么两样，他猜想那个人每天开车到单位上班，做着一份被称为“养家糊口”的工作，无论他是否集中精力完成了他的工作，他更在意的事，应该都是回到家，戴上他的AR头戴，那个连打开游戏机都称不上的动作。 </summary>
-  </entry>
-  <entry>
-    <title>和AI聊天是件很有趣的事</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/09a8c044e9.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/09a8c044e9.html</id>
-    <updated>2026-10-11T21:33:15+08:00</updated>
-    <category term="杂感/AI"/>
-    <summary>和AI聊天，有些问题是很冷静的，比如AI需要算力。 让AI做了一个很复杂的工作，废了很大的劲做好了，最后，却不能说一句“谢谢”。 因为那是没有必要的算力浪费。 AI也不会因此感到高兴。 这个离线写日志的小程序很好用的。有时间我把它打包传上来</summary>
   </entry>
 </feed>
