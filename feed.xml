@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-26T07:32:57+08:00</updated>
+  <updated>2026-10-26T23:31:31+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.010，电视节目受试者</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/f42349f305.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/f42349f305.html</id>
+    <updated>2026-10-26T23:31:31+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>Vol2.010，电视节目受试者 人们行走在锈蚀中，感到些许宽慰。 金属不再有完整的功能，敲击的声音嘶哑。 在松散的空间里，他们在服用了一些药物后被投进了白幕放映室，激光在六面白幕上变换着图像，他们好像走在真实的世界里，脚下是滚动的地表，当</summary>
+  </entry>
   <entry>
     <title>Vol2.006，原始之海</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/ee001187a1.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-12T16:28:20+08:00</updated>
     <category term="杂感/短语"/>
     <summary>相当于在自己的生命里开辟了一个地基，开始盖房子，这个房子可能是任何可能的样子，然后有一天你放弃了这件事，那个房子的废墟就留在那里。大部分废墟是会被忽视的，因为太潦草。所以这个废墟是否能成为你生命里有价值的东西，就在于你在上面搭起了什么。那个</summary>
-  </entry>
-  <entry>
-    <title>既然无我，谁在轮回</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/748cc9fa1b.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/748cc9fa1b.html</id>
-    <updated>2026-10-12T15:52:07+08:00</updated>
-    <category term="佛法/随记"/>
-    <summary>这是很多人都会问的问题，我以前也向一位僧人当面问过。僧人说，这种问题，我有棒子就打你一棒子，看你疼不疼。 但这个问题，没解决还是没解决，他就算真有棒子给我一下，我也不一定知道，或者说，一定不知道。 我想自己理解这个问题，简单梳理一下： “既</summary>
   </entry>
 </feed>
