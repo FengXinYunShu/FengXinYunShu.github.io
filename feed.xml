@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-26T23:31:31+08:00</updated>
+  <updated>2026-10-27T22:26:42+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.011，危险人物</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/d3a109fd48.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/d3a109fd48.html</id>
+    <updated>2026-10-27T22:26:42+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>伊里拉和尚尔把在电视台播出了三天，人们将他们的冷漠解读成了傲慢，把不说话看成刻意的表演。 依然有人认可他们的生存状态，这些人不认为他们两个人在装傻或者做出一种可以被分类的反应机制。 在人工智能普及之前，人类是个性化的典范，重复是极端的平庸。</summary>
+  </entry>
   <entry>
     <title>Vol2.010，电视节目受试者</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/f42349f305.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-12T22:22:17+08:00</updated>
     <category term="作品/自动续费失败"/>
     <summary>这一天，我下班后没有急着回家。我奇异地感受到，人要回去的地方是陌生的。那陌生并不是去到一个我不曾住过的房间，而是它像一间我曾住过的房子，但我并不知道谁曾住在那里，又为什么住在那里。就像房子真实的主人长久地离家，而我借住在他的房间，担心弄乱了</summary>
-  </entry>
-  <entry>
-    <title>在生命里活过</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/2ac9e677f0.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/2ac9e677f0.html</id>
-    <updated>2026-10-12T16:28:20+08:00</updated>
-    <category term="杂感/短语"/>
-    <summary>相当于在自己的生命里开辟了一个地基，开始盖房子，这个房子可能是任何可能的样子，然后有一天你放弃了这件事，那个房子的废墟就留在那里。大部分废墟是会被忽视的，因为太潦草。所以这个废墟是否能成为你生命里有价值的东西，就在于你在上面搭起了什么。那个</summary>
   </entry>
 </feed>
