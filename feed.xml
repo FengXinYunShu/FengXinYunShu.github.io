@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-29T17:40:54+08:00</updated>
+  <updated>2026-10-30T06:00:55+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.013，五十根生日蜡烛</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/2f3e39efe0.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/2f3e39efe0.html</id>
+    <updated>2026-10-30T06:00:55+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>在伊里拉五十岁生日的那天，尚尔把提议好好庆祝一下。他们来到这个世界已经整整二十三年了，尽管对于自己为什么来到这里，怎么来到这里一无所知，也没有影响他们像两个真正的人类那样在这里生活着，这些年里，他们曾神经质地记录了一些或许是“门卫”的人，也</summary>
+  </entry>
   <entry>
     <title>Vol2.012，重逢之秋</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/c0d9193a2c.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-14T16:23:13+08:00</updated>
     <category term="佛法/修行"/>
     <summary>修行就是接纳烦恼。自己生气了、郁闷了、有贪心、对他人有鄙夷心、有争论心等等，这些东西是没有理由解释成修行成果的，这些东西只是说明还要继续修。 继续修是常态。发现烦恼，承认烦恼未断，才能安于修行。否则急于求成，甚至用话术说自己已了悟真理，又成</summary>
-  </entry>
-  <entry>
-    <title>083，故事的完结</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/8a458c6200.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/8a458c6200.html</id>
-    <updated>2026-10-13T21:12:39+08:00</updated>
-    <category term="作品/自动续费失败"/>
-    <summary>合上日记本，他的不想再读下去的想法强烈起来。 再翻下去，日记不会有结局，日记的结局也不是他想要看的。 他决定把日记本放回到失物招领处，那个特别的mini书桌。它做成书桌模型的样子，是为了让这家便利店多一点辨识度，当人们想起这家便利店，想不起</summary>
   </entry>
 </feed>
