@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-28T09:29:34+08:00</updated>
+  <updated>2026-10-29T17:40:54+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.012，重逢之秋</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/c0d9193a2c.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/c0d9193a2c.html</id>
+    <updated>2026-10-29T17:40:54+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>许多年后，礼非天老了很多。我和他依然有联系，礼非天常常像魔怔了一样和我说：“我竟然老了。” “你当然会老，你为什么不老？” 我知道礼非天说这句话是什么意思，我只是习惯性地和他抬杠。他说的是，他竟然活过了这么多年，进入了老年。在他进入老年，或</summary>
+  </entry>
   <entry>
     <title>Vol2.011，危险人物</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/29335b30bf.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-13T21:12:39+08:00</updated>
     <category term="作品/自动续费失败"/>
     <summary>合上日记本，他的不想再读下去的想法强烈起来。 再翻下去，日记不会有结局，日记的结局也不是他想要看的。 他决定把日记本放回到失物招领处，那个特别的mini书桌。它做成书桌模型的样子，是为了让这家便利店多一点辨识度，当人们想起这家便利店，想不起</summary>
-  </entry>
-  <entry>
-    <title>082，子世界游戏（二十三）</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/261eae5791.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/261eae5791.html</id>
-    <updated>2026-10-12T22:22:17+08:00</updated>
-    <category term="作品/自动续费失败"/>
-    <summary>这一天，我下班后没有急着回家。我奇异地感受到，人要回去的地方是陌生的。那陌生并不是去到一个我不曾住过的房间，而是它像一间我曾住过的房子，但我并不知道谁曾住在那里，又为什么住在那里。就像房子真实的主人长久地离家，而我借住在他的房间，担心弄乱了</summary>
   </entry>
 </feed>
