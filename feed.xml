@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-30T06:00:55+08:00</updated>
+  <updated>2026-10-30T07:24:21+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>持戒是一种持着吗</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/4f2dacd461.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/4f2dacd461.html</id>
+    <updated>2026-10-30T07:24:21+08:00</updated>
+    <category term="佛法/随记"/>
+    <summary>一直有人主张看空，因此对于持戒修行等事，看成一种执着或“着相”。这个事换一个角度看会更明白。 首先，要承认佛法修行要对治的是贪嗔痴。如果首先就把这一层否定了，说这都是空。那就只能说，“你说它是空，那也 空，就不需要说了。” 这时再看持戒等事</summary>
+  </entry>
   <entry>
     <title>Vol2.013，五十根生日蜡烛</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/2f3e39efe0.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-14T23:20:15+08:00</updated>
     <category term="作品/自动续费失败"/>
     <summary>小说的第一部分写完了。 应该说，是没有读者跟下来的，甚至通读一章的大概也没有。 所有内容都通读过的，有两个，一个是作者，一个是deepseekAPI。 我每写一章就会发给cherry studio的deepseek flash版，第一章独自</summary>
-  </entry>
-  <entry>
-    <title>修行就是接纳烦恼</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/213fac3d6d.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/213fac3d6d.html</id>
-    <updated>2026-10-14T16:23:13+08:00</updated>
-    <category term="佛法/修行"/>
-    <summary>修行就是接纳烦恼。自己生气了、郁闷了、有贪心、对他人有鄙夷心、有争论心等等，这些东西是没有理由解释成修行成果的，这些东西只是说明还要继续修。 继续修是常态。发现烦恼，承认烦恼未断，才能安于修行。否则急于求成，甚至用话术说自己已了悟真理，又成</summary>
   </entry>
 </feed>
