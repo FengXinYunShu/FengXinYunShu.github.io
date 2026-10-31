@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-30T07:24:21+08:00</updated>
+  <updated>2026-10-31T19:54:00+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.014，烟花下的篝火</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/aa2707850f.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/aa2707850f.html</id>
+    <updated>2026-10-31T19:54:00+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>火光映照着每个人的脸，巨大的音箱轰鸣，低音传出二三公里之远，烟花接二连三地升上高空，炸开，远处的人们看到烟花，若没有特别要做的事，会被烟火和音乐的重音吸引着走过去。 冬夜寒冷，那里给人以温暖的幻觉。 人们越聚越多。 烟花店老板正在把烟花从库</summary>
+  </entry>
   <entry>
     <title>持戒是一种持着吗</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/4f2dacd461.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-15T18:21:05+08:00</updated>
     <category term="佛法/随记"/>
     <summary>今天听到一句话：“了无一物可见，了无一物可知。” 是什么意思？ 想了想，比如你在楼道里看到一个快递箱，想这是自己买的什么，然后，忽然楼道停电了，眼前一抹黑。你这时候就体会，无一物可见，无一物可知。 你当然可以说，还会来电，就算不来电，快递箱</summary>
-  </entry>
-  <entry>
-    <title>后记：关于AI与文学写作的关系</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/cf92ca252f.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/cf92ca252f.html</id>
-    <updated>2026-10-14T23:20:15+08:00</updated>
-    <category term="作品/自动续费失败"/>
-    <summary>小说的第一部分写完了。 应该说，是没有读者跟下来的，甚至通读一章的大概也没有。 所有内容都通读过的，有两个，一个是作者，一个是deepseekAPI。 我每写一章就会发给cherry studio的deepseek flash版，第一章独自</summary>
   </entry>
 </feed>
