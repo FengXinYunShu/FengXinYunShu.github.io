@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-31T19:54:00+08:00</updated>
+  <updated>2026-10-31T20:31:53+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>关于写作的一些感受</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/b112d4fcf7.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/b112d4fcf7.html</id>
+    <updated>2026-10-31T20:31:53+08:00</updated>
+    <category term="杂感/AI"/>
+    <summary>在一年前，用AI写作是一件可以尝试的事。到了今天，用AI出文章，就变成了过于“低级”的行为。 我们不再需要AI帮我们提供更完美的灵感和设计，我们本身的瑕疵成了自己存在的理由。 写作像是没有经过算力加工的原始图片，呈现的是感光器本身的能力和表</summary>
+  </entry>
   <entry>
     <title>Vol2.014，烟花下的篝火</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/aa2707850f.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-15T22:50:57+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>“我们还需要一个半小时才能赶到。” “我只能等一个小时。” “你多等一会儿，我到了你也不会马上离开。” “那我就在这里干等一个小时吗？” “你不等，我们两个人挤一个半小时车到你那，然后你走了，我们去干什么？你真不想等，我们就回去了。” “也</summary>
-  </entry>
-  <entry>
-    <title>&quot;了无一物可见&quot;是在说什么</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/66511df95a.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/66511df95a.html</id>
-    <updated>2026-10-15T18:21:05+08:00</updated>
-    <category term="佛法/随记"/>
-    <summary>今天听到一句话：“了无一物可见，了无一物可知。” 是什么意思？ 想了想，比如你在楼道里看到一个快递箱，想这是自己买的什么，然后，忽然楼道停电了，眼前一抹黑。你这时候就体会，无一物可见，无一物可知。 你当然可以说，还会来电，就算不来电，快递箱</summary>
   </entry>
 </feed>
