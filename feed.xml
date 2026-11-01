@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-10-31T20:31:53+08:00</updated>
+  <updated>2026-11-01T15:05:45+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.015，目击者</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/ac6eee29d7.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/ac6eee29d7.html</id>
+    <updated>2026-11-01T15:05:45+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>这个城市人迹罕至，来到这里的人，对于所见所闻甚至所经历的一切都讳莫如深。失踪者的家人也难以发现这里。他们最后能够找到的，是他们的朋友或亲人在某个地方失去了进一步的轨迹信息。如果他们在到达这里之前，给亲朋发送过一条信息，亲朋们就能找到这里，看</summary>
+  </entry>
   <entry>
     <title>关于写作的一些感受</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/b112d4fcf7.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-17T22:10:56+08:00</updated>
     <category term="佛法/随记"/>
     <summary>佛法有时候说意识决定物质，这容易被人联想到神通或是神棍或是诈骗什么的。 但这说的只是一件很平常的是，意识决定物质，不是说一个人有能力把东西说变没就变，即便有人强调大修行者有那个能力，那也不是重点，佛陀从来不主张受神通的干扰。 意识“决定”物</summary>
-  </entry>
-  <entry>
-    <title>Vol2.001，作为暗号的关键词</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/f6fe6cc78e.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/f6fe6cc78e.html</id>
-    <updated>2026-10-15T22:50:57+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>“我们还需要一个半小时才能赶到。” “我只能等一个小时。” “你多等一会儿，我到了你也不会马上离开。” “那我就在这里干等一个小时吗？” “你不等，我们两个人挤一个半小时车到你那，然后你走了，我们去干什么？你真不想等，我们就回去了。” “也</summary>
   </entry>
 </feed>
