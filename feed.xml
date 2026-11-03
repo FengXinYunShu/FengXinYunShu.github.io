@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-02T23:01:08+08:00</updated>
+  <updated>2026-11-03T23:48:20+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.016，目击者（二）</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/7971ec0ba6.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/7971ec0ba6.html</id>
+    <updated>2026-11-03T23:48:20+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>当一件事重复多次发生，而没有人承认它发生过，这件事就会变成一个结构，一个框架，这件事会继续发生下去，每个人都需要它持续存在下去，包括调查人员，他们在这里有很多事可以做。但他们不能轻易破坏这个结构，破坏者会受到惩罚。从这个意义上，有时一些看似</summary>
+  </entry>
   <entry>
     <title>Vol2.015，与世无关的记录</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/d1d2568418.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-17T23:41:53+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>在“荒原良”社区“幻觉”关键词下记录这次幻觉的用户主页，也曾零星记录过几条类似的幻觉素材。整体看下来，他记录的都是一些不可能发生的事，但是文笔平常，就像自己亲眼所见。其可读性乏善可陈，虽然每篇文章都有数十点击量，有一篇达到二百多的点击量，但</summary>
-  </entry>
-  <entry>
-    <title>书法的“打叉”练习</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/8ead860c3b.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/8ead860c3b.html</id>
-    <updated>2026-10-17T22:17:51+08:00</updated>
-    <category term="书法/方法"/>
-    <summary>关于“打叉”的详细说明：这个练习的核心就是写字的动力链，我们假设写字时躯干静止或极微小的动作，那么从手指写字，再扩大到手掌参与，再扩大到手腕参与，进而肘，上臂、肩，这个过程里，从肩（主要是后肩发力）到指，并不是稀松的铁链一样乱晃，而是有重点</summary>
   </entry>
 </feed>
