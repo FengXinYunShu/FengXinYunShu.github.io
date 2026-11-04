@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-03T23:48:20+08:00</updated>
+  <updated>2026-11-04T22:56:52+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>失去记忆的空间以及天空的声音</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/9035cb2b06.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/9035cb2b06.html</id>
+    <updated>2026-11-04T22:56:52+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>过了很多年，男人慢慢在岁月里衰老，老得他不记得自己这一生都经历过什么，树林里的树比他年轻时长高了很多。 他的地穴修复过了很多次，他花时间从远处运来石头，学会了自己用土烧出坚硬砖，用这些工具，他的地穴越来越像个完整的空间。但是因为整个空间的大</summary>
+  </entry>
   <entry>
     <title>Vol2.016，目击者（二）</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/7971ec0ba6.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-18T15:09:51+08:00</updated>
     <category term="佛法/随记"/>
     <summary>今天天气好，我在路上走路，看到路上有一些闪光的曲线，从一个中心散射出去，我走近了看，是蜗牛走过的痕迹。那只蜗牛从一个地方出发，尝试走了很多路，但是没有走回到一两步之外的草地上，它可能爬了一夜了，我捡起它丢到草里时，我感觉它已经是个空壳。这个</summary>
-  </entry>
-  <entry>
-    <title>Vol2.002，礼非天，或是李飞天</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/389b42f34c.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/389b42f34c.html</id>
-    <updated>2026-10-17T23:41:53+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>在“荒原良”社区“幻觉”关键词下记录这次幻觉的用户主页，也曾零星记录过几条类似的幻觉素材。整体看下来，他记录的都是一些不可能发生的事，但是文笔平常，就像自己亲眼所见。其可读性乏善可陈，虽然每篇文章都有数十点击量，有一篇达到二百多的点击量，但</summary>
   </entry>
 </feed>
