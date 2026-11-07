@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-06T10:08:28+08:00</updated>
+  <updated>2026-11-07T20:45:22+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.018，荒芜的日落和日出</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/c65be568ac.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/c65be568ac.html</id>
+    <updated>2026-11-07T20:45:22+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>自从地菌停止销售。人们接二连三得知了这一片地菌起源地。人们像是挖掘虫草的探险家，带上能够想到的种种探测装备来到这片土地。猪、狗、猫，探针、磁力感应器、放大镜，全套的土壤分析设备。一个曾经只在早市上少数人知道的无名食品，变成了一个网络传奇，它</summary>
+  </entry>
   <entry>
     <title>Vol2.017，地菌</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/5ee09934fc.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-19T23:50:53+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>我回到家时，是早上五点。原本我可以在四点之前回家，我走到楼下时，开始犹豫我要不要回去。回去了也不能睡觉，又要马上准备出门上班，不回去，觉得少了什么重要的事情没做。等到五点时，我刷卡进了单元门，上楼，我洗把脸，又要重新坐上地铁。我应该早点儿去</summary>
-  </entry>
-  <entry>
-    <title>Vol2.003，他们不是喝酒烤串的青年</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/8f92cb387d.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/8f92cb387d.html</id>
-    <updated>2026-10-19T00:30:01+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>李飞天常常有一搭没一搭地和我说这些事，他说得就像真的似的。 他还常常提醒我，不要叫他李飞天，他的大名叫“礼非天”。这一点，他应该弄错了，姓李的有很多，但真的有姓“礼”的吗，而且把名字起为“非天”，尽管看着很霸气，却不像是父母给孩子起出来的名</summary>
   </entry>
 </feed>
