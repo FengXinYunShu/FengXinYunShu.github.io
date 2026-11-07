@@ -2,15 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-07T20:45:22+08:00</updated>
+  <updated>2026-11-07T21:14:21+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
   <entry>
+    <title>冬天下雨</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/3c841ea64d.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/3c841ea64d.html</id>
+    <updated>2026-11-07T21:14:21+08:00</updated>
+    <category term="杂感/短语"/>
+    <summary>下雨时，一直有大的雨点打在棚子上。 很小就听这样的声音。 等老到快离开这个世界时。 不知道还有没有这样的雨声。</summary>
+  </entry>
+  <entry>
     <title>Vol2.018，荒芜的日落和日出</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/c65be568ac.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/c65be568ac.html</id>
-    <updated>2026-11-07T20:45:22+08:00</updated>
+    <link href="https://fengxinyunshu.yahaizi.com/p/3cb600c951.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/3cb600c951.html</id>
+    <updated>2026-11-07T21:09:45+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>自从地菌停止销售。人们接二连三得知了这一片地菌起源地。人们像是挖掘虫草的探险家，带上能够想到的种种探测装备来到这片土地。猪、狗、猫，探针、磁力感应器、放大镜，全套的土壤分析设备。一个曾经只在早市上少数人知道的无名食品，变成了一个网络传奇，它</summary>
   </entry>
@@ -157,13 +165,5 @@
     <updated>2026-10-20T12:31:36+08:00</updated>
     <category term="书法/认识"/>
     <summary>关于书法的入纸，有一个看起来很有科学依据的说法：注墨量。也就是说，用中锋行笔时，墨汁能够更有效地注入纸纤维，使字显得黑，再者因为中锋运笔，两侧没有毛边，进一步强化了字的扎实感。 米芾彦和帖 但回到古人那里，古人说的是，如印印泥，如锥画沙，如</summary>
-  </entry>
-  <entry>
-    <title>Vol2.004，受难者的焦点</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/1896f1b6c4.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/1896f1b6c4.html</id>
-    <updated>2026-10-19T23:50:53+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>我回到家时，是早上五点。原本我可以在四点之前回家，我走到楼下时，开始犹豫我要不要回去。回去了也不能睡觉，又要马上准备出门上班，不回去，觉得少了什么重要的事情没做。等到五点时，我刷卡进了单元门，上楼，我洗把脸，又要重新坐上地铁。我应该早点儿去</summary>
   </entry>
 </feed>
