@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-07T21:14:21+08:00</updated>
+  <updated>2026-11-08T23:09:31+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.019，防寒</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/e507f81184.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/e507f81184.html</id>
+    <updated>2026-11-08T23:09:31+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>许多年间，每个春天、夏天、秋天，人们平安地度过狂欢的夜晚，在兴奋中快速沉入睡眠，有人在篝火旁疲惫地熬到天明。每个冬天，都有人在夜晚的寒冷里静静死去。 有一年，两个调查人员想要弄明白这里究竟发生了什么，他们随身带上了拍摄工具，穿着一身游客们常</summary>
+  </entry>
   <entry>
     <title>冬天下雨</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/3c841ea64d.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-20T23:50:54+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>“这个世界最大的问题是半成品，最大的真实也是半成品。” 在我和礼非天的闲聊中，我们常常谈到的一件事是“完成度”。李非天坚持让我在写他的名字时，不能写成李飞天，我只好慢慢习惯非天这样的写法。 在谈论“完成度”这件事时，李飞天给我提供了很多案例</summary>
-  </entry>
-  <entry>
-    <title>书法的入纸是什么</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/a4a87443a9.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/a4a87443a9.html</id>
-    <updated>2026-10-20T12:31:36+08:00</updated>
-    <category term="书法/认识"/>
-    <summary>关于书法的入纸，有一个看起来很有科学依据的说法：注墨量。也就是说，用中锋行笔时，墨汁能够更有效地注入纸纤维，使字显得黑，再者因为中锋运笔，两侧没有毛边，进一步强化了字的扎实感。 米芾彦和帖 但回到古人那里，古人说的是，如印印泥，如锥画沙，如</summary>
   </entry>
 </feed>
