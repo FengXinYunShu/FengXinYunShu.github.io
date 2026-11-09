@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-08T23:09:31+08:00</updated>
+  <updated>2026-11-09T23:45:52+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.020，漫长的黄昏</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/1f9d087792.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/1f9d087792.html</id>
+    <updated>2026-11-09T23:45:52+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>这一天的天气出奇地好。温度适宜。空气中干净得让人能够看到仿佛有粒子的痕迹。到这里来的人星星点点地站在旷野里，只是单纯地站着，旷野里偶尔有不冷不热的风吹过，风很浅。吹一会儿就消失了。人们互相不熟识，不打招呼。他们中有的人从凌晨就站在这里，他们</summary>
+  </entry>
   <entry>
     <title>Vol2.019，防寒</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/e507f81184.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-22T23:59:51+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>这里没有备份，这里有真正的死亡。 伊里拉真正面对这个事实的时候，他还没有对死亡产生真实的体验。在他的资料里，他完全知道人类世界真实的死亡是什么意思。他可以比所有真实的人更清楚地解释这件事，他能用一套数千字甚至上万字的宏论解释数字智能面对死亡</summary>
-  </entry>
-  <entry>
-    <title>Vol2.005，平庸者的时间压缩机</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/8e4dde4881.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/8e4dde4881.html</id>
-    <updated>2026-10-20T23:50:54+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>“这个世界最大的问题是半成品，最大的真实也是半成品。” 在我和礼非天的闲聊中，我们常常谈到的一件事是“完成度”。李非天坚持让我在写他的名字时，不能写成李飞天，我只好慢慢习惯非天这样的写法。 在谈论“完成度”这件事时，李飞天给我提供了很多案例</summary>
   </entry>
 </feed>
