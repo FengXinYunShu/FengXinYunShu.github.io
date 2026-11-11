@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-09T23:45:52+08:00</updated>
+  <updated>2026-11-11T23:33:31+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>夜之降临</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/338ee75980.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/338ee75980.html</id>
+    <updated>2026-11-11T23:33:31+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>在这漫长的寒夜里，大通铺上的每个人都在沉睡。清醒地沉睡，他们看到夜晚的颜色，一种类似黑色的苍白。浅而快的呼吸、浅而慢的呼吸、深而慢的呼吸。呼吸真实存在着，每个人都能听到别人在沉睡中的呼吸，也能听到自己的呼吸，他们倾听陌生人在黑暗中发出的呼吸</summary>
+  </entry>
   <entry>
     <title>Vol2.020，漫长的黄昏</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/1f9d087792.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-24T20:05:01+08:00</updated>
     <category term="佛法/修行"/>
     <summary>开悟不是一个目标，当然不是不能把它定为目标，只是如果有这个目的，就要知道它是有前提的。 这是需要慢慢学习和训练的一件事，勤修戒定慧对治贪嗔痴。 用日常语言说，开悟是一种结果，好比说，一个学画的人，能画出传神的画。 人们不知道什么叫传神，不知</summary>
-  </entry>
-  <entry>
-    <title>Vol2.007，算法的感觉</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/75909adb4f.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/75909adb4f.html</id>
-    <updated>2026-10-22T23:59:51+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>这里没有备份，这里有真正的死亡。 伊里拉真正面对这个事实的时候，他还没有对死亡产生真实的体验。在他的资料里，他完全知道人类世界真实的死亡是什么意思。他可以比所有真实的人更清楚地解释这件事，他能用一套数千字甚至上万字的宏论解释数字智能面对死亡</summary>
   </entry>
 </feed>
