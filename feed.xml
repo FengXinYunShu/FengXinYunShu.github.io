@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-11T23:33:31+08:00</updated>
+  <updated>2026-11-13T09:56:56+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.022，止息者</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/196e054eac.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/196e054eac.html</id>
+    <updated>2026-11-13T09:56:56+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>到了吃饭的时间，尚尔把还没有回家。 伊里拉从床上挣扎起来，他走路已经非常困难，几乎不能走路了。他心里却认为自己只是没有年轻的时候灵活。他的肌肉和骨骼都出现了一些严重的损伤。他走了两步，就用双手扶着桌子喘气。他还想继续走，腿开始发抖，随时会摔</summary>
+  </entry>
   <entry>
     <title>夜之降临</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/338ee75980.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-25T22:01:56+08:00</updated>
     <category term="佛法/随记"/>
     <summary>苦苦，坏苦，行苦。 第一种是最日常体会到的痛苦，比如受伤、生病、丢钱等。 第二种是变坏的苦，就是现在还是好的，但是它不长久。这个苹果很好吃，但是放了一个月，不好吃了，对应人生，现在多么年轻，身体多么好，可是十年过去了，二十年过去了，好时光一</summary>
-  </entry>
-  <entry>
-    <title>“开悟”的前提</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/13a9f352d0.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/13a9f352d0.html</id>
-    <updated>2026-10-24T20:05:01+08:00</updated>
-    <category term="佛法/修行"/>
-    <summary>开悟不是一个目标，当然不是不能把它定为目标，只是如果有这个目的，就要知道它是有前提的。 这是需要慢慢学习和训练的一件事，勤修戒定慧对治贪嗔痴。 用日常语言说，开悟是一种结果，好比说，一个学画的人，能画出传神的画。 人们不知道什么叫传神，不知</summary>
   </entry>
 </feed>
