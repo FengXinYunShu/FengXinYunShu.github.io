@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-14T23:32:26+08:00</updated>
+  <updated>2026-11-15T16:20:31+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol2.024，返程（二）</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/6abaecd0e8.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/6abaecd0e8.html</id>
+    <updated>2026-11-15T16:20:31+08:00</updated>
+    <category term="作品/自动续费失败Vol2"/>
+    <summary>医生们站在阳台上，从阳台向外看，是对面楼蓝灰色的墙壁。 空气中隐约有飞行器的声音。在安静的房间里，他们还能听到老机箱发出的不间断的、忽强忽弱的风扇呼呼声。他们不太记得自己为什么出现在这里。他们来到这里，一定是有人打了急救电话，但这个房间里没</summary>
+  </entry>
   <entry>
     <title>Vol2.023，归处</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/3442e46b25.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-26T23:31:31+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>Vol2.010，电视节目受试者 人们行走在锈蚀中，感到些许宽慰。 金属不再有完整的功能，敲击的声音嘶哑。 在松散的空间里，他们在服用了一些药物后被投进了白幕放映室，激光在六面白幕上变换着图像，他们好像走在真实的世界里，脚下是滚动的地表，当</summary>
-  </entry>
-  <entry>
-    <title>Vol2.006，原始之海</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/ee001187a1.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/ee001187a1.html</id>
-    <updated>2026-10-26T07:32:57+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>他们看着地铁站里拥挤混乱的人群，忘了自己为什么要来这里，目不暇接的人，有规律运动的、又带来确定随机性的人流，真实得像是虚构。他们产生了类似于掠食者闻到猎物气息时的兴奋，像是在狭小的空间里遭遇了一头大象，不知道如何下手，甚至怀疑这头大象是不是</summary>
   </entry>
 </feed>
