@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-15T16:20:31+08:00</updated>
+  <updated>2026-11-18T00:06:49+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol3.002，奔跑的孩子（二）</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/2e5d38e3d4.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/2e5d38e3d4.html</id>
+    <updated>2026-11-18T00:06:49+08:00</updated>
+    <category term="作品/自动续费失败Vol3"/>
+    <summary>我以为自己做了一个梦。 我听到孩子们的吵闹声。 睁开眼睛的时候，阳光照亮了这个遍地灰尘的卧室，我躺在灰尘里。这里空气干燥，我从柜子里拿出的床单散发出陌生的气息，那可能和前一个主人的气味有关，也可能只是时间和柜子的材料造成的。 有孩子正从窗外</summary>
+  </entry>
+  <entry>
+    <title>Vol3.001，奔跑的孩子</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/18b0002449.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/18b0002449.html</id>
+    <updated>2026-11-18T00:05:49+08:00</updated>
+    <category term="作品/自动续费失败Vol3"/>
+    <summary>我每周都会经过横跨马路的一座老旧的钢筋混凝土石桥，桥墩已经严重破损，生锈的钢筋头露在外面。有时候，我会在钢筋头上看到一整个苹果穿在上面，像是某种欧洲建筑装饰，苹果通常不会停留太久，有时候会被鸟啄食，而大多数情况下，这些苹果会被孩子们用石头从</summary>
+  </entry>
   <entry>
     <title>Vol2.024，返程（二）</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/6abaecd0e8.html"/>
@@ -149,21 +165,5 @@
     <updated>2026-10-29T17:40:54+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>许多年后，礼非天老了很多。我和他依然有联系，礼非天常常像魔怔了一样和我说：“我竟然老了。” “你当然会老，你为什么不老？” 我知道礼非天说这句话是什么意思，我只是习惯性地和他抬杠。他说的是，他竟然活过了这么多年，进入了老年。在他进入老年，或</summary>
-  </entry>
-  <entry>
-    <title>Vol2.011，危险人物</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/29335b30bf.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/29335b30bf.html</id>
-    <updated>2026-10-28T09:29:34+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>Vol2.011，危险人物 伊里拉和尚尔把在电视台播出了三天，人们将他们的冷漠解读成了傲慢，把不说话看成刻意的表演。 依然有人认可他们的生存状态，这些人不认为他们两个人在装傻或者做出一种可以被分类的反应机制。 在人工智能普及之前，人类是个性</summary>
-  </entry>
-  <entry>
-    <title>Vol2.010，电视节目受试者</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/f42349f305.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/f42349f305.html</id>
-    <updated>2026-10-26T23:31:31+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>Vol2.010，电视节目受试者 人们行走在锈蚀中，感到些许宽慰。 金属不再有完整的功能，敲击的声音嘶哑。 在松散的空间里，他们在服用了一些药物后被投进了白幕放映室，激光在六面白幕上变换着图像，他们好像走在真实的世界里，脚下是滚动的地表，当</summary>
   </entry>
 </feed>
