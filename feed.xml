@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-18T00:06:49+08:00</updated>
+  <updated>2026-11-19T00:09:20+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>跟踪者</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/84b03968e6.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/84b03968e6.html</id>
+    <updated>2026-11-19T00:09:20+08:00</updated>
+    <category term="作品/自动续费失败Vol3"/>
+    <summary>我不是他们的父亲，我是被他们保护的人类。他们保护我，我也保护他们，我不知道这算不算是一种自私。 这里不只一次有外来的人类来访，孩子们从来不惧怕他们，不伤害他们，他们只有好奇，他们会花很长时间去看一个陌生人，陌生人因为恐惧而逃跑，陌生人因为恐</summary>
+  </entry>
   <entry>
     <title>Vol3.002，奔跑的孩子（二）</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/2e5d38e3d4.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-30T06:00:55+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>在伊里拉五十岁生日的那天，尚尔把提议好好庆祝一下。他们来到这个世界已经整整二十三年了，尽管对于自己为什么来到这里，怎么来到这里一无所知，也没有影响他们像两个真正的人类那样在这里生活着，这些年里，他们曾神经质地记录了一些或许是“门卫”的人，也</summary>
-  </entry>
-  <entry>
-    <title>Vol2.012，重逢之秋</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/c0d9193a2c.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/c0d9193a2c.html</id>
-    <updated>2026-10-29T17:40:54+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>许多年后，礼非天老了很多。我和他依然有联系，礼非天常常像魔怔了一样和我说：“我竟然老了。” “你当然会老，你为什么不老？” 我知道礼非天说这句话是什么意思，我只是习惯性地和他抬杠。他说的是，他竟然活过了这么多年，进入了老年。在他进入老年，或</summary>
   </entry>
 </feed>
