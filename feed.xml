@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-19T00:09:20+08:00</updated>
+  <updated>2026-11-20T18:29:01+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol3.003，呼吸的声音</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/d67b46384e.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/d67b46384e.html</id>
+    <updated>2026-11-20T18:29:01+08:00</updated>
+    <category term="作品/自动续费失败Vol3"/>
+    <summary>三个孩子里，最让我好奇的，是看起来体重最大的那个，当他们同时出现时，他喘气的声音盖过了另两个孩子。那声音让人不安，仿佛他的呼吸道里有一些破破烂烂的碎块和粘液，我猜他们都能听到那个声音，但没有一个感到不安。 我说的是，没有一个人感到不安。三个</summary>
+  </entry>
   <entry>
     <title>跟踪者</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/84b03968e6.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-30T07:24:21+08:00</updated>
     <category term="佛法/随记"/>
     <summary>一直有人主张看空，因此对于持戒修行等事，看成一种执着或“着相”。这个事换一个角度看会更明白。 首先，要承认佛法修行要对治的是贪嗔痴。如果首先就把这一层否定了，说这都是空。那就只能说，“你说它是空，那也 空，就不需要说了。” 这时再看持戒等事</summary>
-  </entry>
-  <entry>
-    <title>Vol2.013，五十根生日蜡烛</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/2f3e39efe0.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/2f3e39efe0.html</id>
-    <updated>2026-10-30T06:00:55+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>在伊里拉五十岁生日的那天，尚尔把提议好好庆祝一下。他们来到这个世界已经整整二十三年了，尽管对于自己为什么来到这里，怎么来到这里一无所知，也没有影响他们像两个真正的人类那样在这里生活着，这些年里，他们曾神经质地记录了一些或许是“门卫”的人，也</summary>
   </entry>
 </feed>
