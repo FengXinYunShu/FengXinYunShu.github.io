@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-20T18:29:01+08:00</updated>
+  <updated>2026-11-21T18:03:20+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol3.004，胖小子</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/10496a5bf5.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/10496a5bf5.html</id>
+    <updated>2026-11-21T18:03:20+08:00</updated>
+    <category term="作品/自动续费失败Vol3"/>
+    <summary>胖小子站在我面前时，和以前有一些不一样，他的样子让我的心剧烈跳动。心跳伴随着强烈的耳鸣。在没有面罩的屏蔽下，胖小子的呼吸声有着更为清晰的层次。听起来并不像是一种呼吸，而是同时有四五个或者更多的人或者什么东西在呼吸。一个微弱的呼吸会忽然增强，</summary>
+  </entry>
   <entry>
     <title>Vol3.003，呼吸的声音</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/d67b46384e.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-31T19:54:00+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>火光映照着每个人的脸，巨大的音箱轰鸣，低音传出二三公里之远，烟花接二连三地升上高空，炸开，远处的人们看到烟花，若没有特别要做的事，会被烟火和音乐的重音吸引着走过去。 冬夜寒冷，那里给人以温暖的幻觉。 人们越聚越多。 烟花店老板正在把烟花从库</summary>
-  </entry>
-  <entry>
-    <title>持戒是一种持着吗</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/4f2dacd461.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/4f2dacd461.html</id>
-    <updated>2026-10-30T07:24:21+08:00</updated>
-    <category term="佛法/随记"/>
-    <summary>一直有人主张看空，因此对于持戒修行等事，看成一种执着或“着相”。这个事换一个角度看会更明白。 首先，要承认佛法修行要对治的是贪嗔痴。如果首先就把这一层否定了，说这都是空。那就只能说，“你说它是空，那也 空，就不需要说了。” 这时再看持戒等事</summary>
   </entry>
 </feed>
