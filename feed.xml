@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-21T18:03:20+08:00</updated>
+  <updated>2026-11-22T09:49:23+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>“空”与“无住”在接受上的误区</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/15d8de0cfa.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/15d8de0cfa.html</id>
+    <updated>2026-11-22T09:49:23+08:00</updated>
+    <category term="佛法/随记"/>
+    <summary>以下是几条笔记，表述并不能说很严谨，只是大体记录思路。 1 这里就和道生一 一生二二生三 三生万物一样，般若智落在道生一这个“生”上，这个生和后面一生二二生三三生万物的“生”不是一种东西。 第一个生是无碍，因为无碍无本，所以自然万物生生不息</summary>
+  </entry>
   <entry>
     <title>Vol3.004，胖小子</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/10496a5bf5.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-10-31T20:31:53+08:00</updated>
     <category term="杂感/AI"/>
     <summary>在一年前，用AI写作是一件可以尝试的事。到了今天，用AI出文章，就变成了过于“低级”的行为。 我们不再需要AI帮我们提供更完美的灵感和设计，我们本身的瑕疵成了自己存在的理由。 写作像是没有经过算力加工的原始图片，呈现的是感光器本身的能力和表</summary>
-  </entry>
-  <entry>
-    <title>Vol2.014，烟花下的篝火</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/aa2707850f.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/aa2707850f.html</id>
-    <updated>2026-10-31T19:54:00+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>火光映照着每个人的脸，巨大的音箱轰鸣，低音传出二三公里之远，烟花接二连三地升上高空，炸开，远处的人们看到烟花，若没有特别要做的事，会被烟火和音乐的重音吸引着走过去。 冬夜寒冷，那里给人以温暖的幻觉。 人们越聚越多。 烟花店老板正在把烟花从库</summary>
   </entry>
 </feed>
