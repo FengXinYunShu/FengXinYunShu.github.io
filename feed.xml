@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-22T09:49:23+08:00</updated>
+  <updated>2026-11-22T23:07:16+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol3.005，火炉</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/d51d877733.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/d51d877733.html</id>
+    <updated>2026-11-22T23:07:16+08:00</updated>
+    <category term="作品/自动续费失败Vol3"/>
+    <summary>当我决定在我的房子里制作火炉，第二天早上，我的心情变得特别好，我感觉自己可以做很多事，有很多力量。我甚至不惜从床下的旧箱子里抓出一把坚果慢慢地嚼着。 我不能吃太多，我可以吃十个，慢慢享受这十个坚果给我带来的幸福。我相信今天还有时间可以去采集</summary>
+  </entry>
   <entry>
     <title>“空”与“无住”在接受上的误区</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/15d8de0cfa.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-11-01T15:05:45+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>这个城市人迹罕至，来到这里的人，对于所见所闻甚至所经历的一切都讳莫如深。失踪者的家人也难以发现这里。他们最后能够找到的，是他们的朋友或亲人在某个地方失去了进一步的轨迹信息。如果他们在到达这里之前，给亲朋发送过一条信息，亲朋们就能找到这里，看</summary>
-  </entry>
-  <entry>
-    <title>关于写作的一些感受</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/b112d4fcf7.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/b112d4fcf7.html</id>
-    <updated>2026-10-31T20:31:53+08:00</updated>
-    <category term="杂感/AI"/>
-    <summary>在一年前，用AI写作是一件可以尝试的事。到了今天，用AI出文章，就变成了过于“低级”的行为。 我们不再需要AI帮我们提供更完美的灵感和设计，我们本身的瑕疵成了自己存在的理由。 写作像是没有经过算力加工的原始图片，呈现的是感光器本身的能力和表</summary>
   </entry>
 </feed>
