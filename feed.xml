@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-23T08:49:08+08:00</updated>
+  <updated>2026-11-23T17:26:28+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>金刚经中的因果观（三至六品读经笔记）</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/c74eeedbe3.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/c74eeedbe3.html</id>
+    <updated>2026-11-23T17:26:28+08:00</updated>
+    <category term="佛法/随记"/>
+    <summary>菩萨于法，应无所住，行于布施，所谓不住色布施，不住声香味触法布施。 若菩萨不住相布施，其福德不可思量。 这个如果从因果上说，就是在因上抓取，在果上放手。 因为你如果在乎我布施了多少，利益了多少众生，那就是在果上抓取。 因为你做了就是做了，你</summary>
+  </entry>
   <entry>
     <title>平静的海</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/d37454866c.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-11-03T23:48:20+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>当一件事重复多次发生，而没有人承认它发生过，这件事就会变成一个结构，一个框架，这件事会继续发生下去，每个人都需要它持续存在下去，包括调查人员，他们在这里有很多事可以做。但他们不能轻易破坏这个结构，破坏者会受到惩罚。从这个意义上，有时一些看似</summary>
-  </entry>
-  <entry>
-    <title>Vol2.015，与世无关的记录</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/d1d2568418.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/d1d2568418.html</id>
-    <updated>2026-11-02T23:01:08+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>整个事件的目击者一直保持着沉默。他像往常一样，用简白而枯燥的文字记录了他看到的事。 在记录的开始，他写道： 我来这里，是因为有人在社区发了一篇帖子。我本不该受到这种文章的诱惑。但人生来就是被诱惑的。我到了，见到了不好的事情。人们在夜里围着火</summary>
   </entry>
 </feed>
