@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-23T17:26:28+08:00</updated>
+  <updated>2026-11-23T23:04:07+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol3.006，同行</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/6b848ccf50.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/6b848ccf50.html</id>
+    <updated>2026-11-23T23:04:07+08:00</updated>
+    <category term="作品/自动续费失败Vol3"/>
+    <summary>我出发时能带上的“行囊”，是我在附近能找到的一些陈旧的布片，正如我曾经设想的。林中人搜刮了能够搜刮的一切，如果有什么是他不能带走的，他会就地销毁那些东西。这个过程可能极为漫长，可能从人群从这座旧城迁走那一天就开始了。 我不知道林中人为什么没</summary>
+  </entry>
   <entry>
     <title>金刚经中的因果观（三至六品读经笔记）</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/c74eeedbe3.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-11-04T22:56:52+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>过了很多年，男人慢慢在岁月里衰老，老得他不记得自己这一生都经历过什么，树林里的树比他年轻时长高了很多。 他的地穴修复过了很多次，他花时间从远处运来石头，学会了自己用土烧出坚硬砖，用这些工具，他的地穴越来越像个完整的空间。但是因为整个空间的大</summary>
-  </entry>
-  <entry>
-    <title>Vol2.016，目击者（二）</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/7971ec0ba6.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/7971ec0ba6.html</id>
-    <updated>2026-11-03T23:48:20+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>当一件事重复多次发生，而没有人承认它发生过，这件事就会变成一个结构，一个框架，这件事会继续发生下去，每个人都需要它持续存在下去，包括调查人员，他们在这里有很多事可以做。但他们不能轻易破坏这个结构，破坏者会受到惩罚。从这个意义上，有时一些看似</summary>
   </entry>
 </feed>
