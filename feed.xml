@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-26T19:14:07+08:00</updated>
+  <updated>2026-11-26T20:16:43+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>研讨会（三）</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/cf58fe57e3.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/cf58fe57e3.html</id>
+    <updated>2026-11-26T20:16:43+08:00</updated>
+    <category term="作品/自动续费失败Vol3"/>
+    <summary>“激烈客”在复述张卡谷的观点时，稍微冷静了一些。如果说冷静这个词有含义的话，它并不是字面所呈现的，似乎有某种情绪的作用，事实上，张卡谷只是无法用激动的言辞复述张尗谹的发言。但在近乎平和的描述后。大家注意到，“张卡谷”的脸色开始变得不那么好看</summary>
+  </entry>
   <entry>
     <title>研讨会（二）</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/27e9337494.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-11-07T21:09:45+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>自从地菌停止销售。人们接二连三得知了这一片地菌起源地。人们像是挖掘虫草的探险家，带上能够想到的种种探测装备来到这片土地。猪、狗、猫，探针、磁力感应器、放大镜，全套的土壤分析设备。一个曾经只在早市上少数人知道的无名食品，变成了一个网络传奇，它</summary>
-  </entry>
-  <entry>
-    <title>Vol2.017，地菌</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/5ee09934fc.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/5ee09934fc.html</id>
-    <updated>2026-11-06T10:08:28+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>它的感知进入了相连的实体，有时候，它遇到思维的节点，或是思维的器官，它在那里思考。当它进入一个生命的容器，它用那生命的容器感知世界。当它的容器能够说出语言时，它用语言交流。 它向与它交流的同类，那些看着像是人的实体谈论自己的过去，谈论他曾经</summary>
   </entry>
 </feed>
