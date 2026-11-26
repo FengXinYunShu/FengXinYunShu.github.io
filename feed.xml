@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-23T23:04:07+08:00</updated>
+  <updated>2026-11-26T19:14:07+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>研讨会（二）</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/27e9337494.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/27e9337494.html</id>
+    <updated>2026-11-26T19:14:07+08:00</updated>
+    <category term="作品/自动续费失败Vol3"/>
+    <summary>参加这次研讨会的并不完全是人工智能领域的专家，有一些专家有哲学和人类学背景，还有的是网络征集到的热心参与者。 和公司的预期相似（实际上是与公司使用的人工智能的预计相似），网络征集来的参与者，虽然明确被告知在实验环境中参与“荒野求生”的是智能</summary>
+  </entry>
   <entry>
     <title>Vol3.006，同行</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/6b848ccf50.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-11-06T10:08:28+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>它的感知进入了相连的实体，有时候，它遇到思维的节点，或是思维的器官，它在那里思考。当它进入一个生命的容器，它用那生命的容器感知世界。当它的容器能够说出语言时，它用语言交流。 它向与它交流的同类，那些看着像是人的实体谈论自己的过去，谈论他曾经</summary>
-  </entry>
-  <entry>
-    <title>失去记忆的空间以及天空的声音</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/9035cb2b06.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/9035cb2b06.html</id>
-    <updated>2026-11-04T22:56:52+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>过了很多年，男人慢慢在岁月里衰老，老得他不记得自己这一生都经历过什么，树林里的树比他年轻时长高了很多。 他的地穴修复过了很多次，他花时间从远处运来石头，学会了自己用土烧出坚硬砖，用这些工具，他的地穴越来越像个完整的空间。但是因为整个空间的大</summary>
   </entry>
 </feed>
