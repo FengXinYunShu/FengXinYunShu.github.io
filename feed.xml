@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-26T20:24:02+08:00</updated>
+  <updated>2026-11-28T00:23:19+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>Vol3.后记，反AI写作习惯的养成</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/87e073a3eb.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/87e073a3eb.html</id>
+    <updated>2026-11-28T00:23:19+08:00</updated>
+    <category term="作品/自动续费失败Vol3"/>
+    <summary>Vol3，从字数上说，可以说是中篇小说，但如果从形式或内容情节来说，它大体上属于头脑风暴，连大纲都算不上。 和网络小说家（据称他们中的佼佼者，每个字的售价最多达到50元）通过AI生成故事，并在后期删掉AI提示词并上传、出版作品相比，我在写这</summary>
+  </entry>
   <entry>
     <title>研讨会</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/b336f2f3c4.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-11-08T23:09:31+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>许多年间，每个春天、夏天、秋天，人们平安地度过狂欢的夜晚，在兴奋中快速沉入睡眠，有人在篝火旁疲惫地熬到天明。每个冬天，都有人在夜晚的寒冷里静静死去。 有一年，两个调查人员想要弄明白这里究竟发生了什么，他们随身带上了拍摄工具，穿着一身游客们常</summary>
-  </entry>
-  <entry>
-    <title>冬天下雨</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/3c841ea64d.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/3c841ea64d.html</id>
-    <updated>2026-11-07T21:14:21+08:00</updated>
-    <category term="杂感/短语"/>
-    <summary>下雨时，一直有大的雨点打在棚子上。 很小就听这样的声音。 等老到快离开这个世界时。 不知道还有没有这样的雨声。</summary>
   </entry>
 </feed>
