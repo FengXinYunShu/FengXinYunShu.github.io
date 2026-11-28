@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风信云书文档库</title>
   <id>https://fengxinyunshu.yahaizi.com/</id>
-  <updated>2026-11-28T00:23:19+08:00</updated>
+  <updated>2026-11-28T14:00:36+08:00</updated>
   <link rel="self" href="https://fengxinyunshu.yahaizi.com/feed.xml"/>
   <link href="https://fengxinyunshu.yahaizi.com/"/>
   <author><name>fengxinyunshu</name></author>
+  <entry>
+    <title>说“无我”的人无我了吗</title>
+    <link href="https://fengxinyunshu.yahaizi.com/p/bc0f6b5e39.html"/>
+    <id>https://fengxinyunshu.yahaizi.com/p/bc0f6b5e39.html</id>
+    <updated>2026-11-28T14:00:36+08:00</updated>
+    <category term="佛法/随记"/>
+    <summary>笔记： 这个系统里，是有阿赖耶识的。这个理论并不是常见，而是说了一个相续的事实。在这个事实里的确无我，但就像一棵树上长一样的树叶，一条河源头投毒，下游也有毒，又比如，河的源头生鱼，下游也生鱼。“我”就是从阿赖耶识这条河上长出来的“鱼”，上游</summary>
+  </entry>
   <entry>
     <title>Vol3.后记，反AI写作习惯的养成</title>
     <link href="https://fengxinyunshu.yahaizi.com/p/87e073a3eb.html"/>
@@ -157,13 +165,5 @@
     <updated>2026-11-09T23:45:52+08:00</updated>
     <category term="作品/自动续费失败Vol2"/>
     <summary>这一天的天气出奇地好。温度适宜。空气中干净得让人能够看到仿佛有粒子的痕迹。到这里来的人星星点点地站在旷野里，只是单纯地站着，旷野里偶尔有不冷不热的风吹过，风很浅。吹一会儿就消失了。人们互相不熟识，不打招呼。他们中有的人从凌晨就站在这里，他们</summary>
-  </entry>
-  <entry>
-    <title>Vol2.019，防寒</title>
-    <link href="https://fengxinyunshu.yahaizi.com/p/e507f81184.html"/>
-    <id>https://fengxinyunshu.yahaizi.com/p/e507f81184.html</id>
-    <updated>2026-11-08T23:09:31+08:00</updated>
-    <category term="作品/自动续费失败Vol2"/>
-    <summary>许多年间，每个春天、夏天、秋天，人们平安地度过狂欢的夜晚，在兴奋中快速沉入睡眠，有人在篝火旁疲惫地熬到天明。每个冬天，都有人在夜晚的寒冷里静静死去。 有一年，两个调查人员想要弄明白这里究竟发生了什么，他们随身带上了拍摄工具，穿着一身游客们常</summary>
   </entry>
 </feed>
